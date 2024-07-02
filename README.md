@@ -3,9 +3,12 @@
 
 
 ## 📌 About the project
-The primary objective of this study Dataset: 
 
-📄 [Here you can check the entire analysis!](https://colab.research.google.com/drive/1Yx-TdR8yuOjdkJyfe8fhfJIB0vX6JHDD#scrollTo=yivRKyc77gEE)
+I sought to understand, from the available data, the market value of football players in 2021 and the relationship of this metric with various categories in the dataset. Additionally, I aimed to gain an understanding of the 10 players with the highest market value.
+
+I included insights in Portuguese and English to highlight interesting perspectives I obtained.
+
+📄 [Here you can check the entire analysis!](https://colab.research.google.com/drive/1sSfXLOCqUy-mKPvfr-3L6uckTmIZtUbX)
 
 ## 💼 Analysis 
 
